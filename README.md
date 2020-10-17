@@ -1,2 +1,4 @@
-# FullStack-Eletro
- Loja-recode
+# FullStack Eletro
+ HTML
+ CSS
+ JavaScript
